@@ -1,0 +1,68 @@
+.btn1{
+    width: 180px;
+    height: 60px;
+    border-radius: 5px;
+    background-color: #0A8080;
+    color: white;
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 18px;
+    border: 0;
+    position: absolute;
+    top: 340px;
+}
+.button{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+   
+}
+.grow{
+    text-align: center;
+    font-family: B612;
+    font-size: 34px;
+    font-weight: 700;
+    color: #0F2137;
+    margin-top: 80px;
+}
+.cente{
+    margin-top: 20px;
+}
+.build{
+    text-align: center;
+    font-family:DM Sans;
+    font-size: 16px;
+    font-weight: 400;
+    color: #0F2137;
+}
+
+.three{
+    height: 130px;
+    width: 100%;
+    margin-top: 180px;
+    display: flex;
+}
+.three1{
+    width: 33.33%;
+    height: 100%;   
+    display: flex;
+}
+.three2{
+    width: 33.33%;
+    height: 100%;
+    display: flex;
+}
+.three3{
+    width: 33.33%;
+    height: 100%;
+    display: flex;
+}
+.bottom{
+    margin-bottom: 10.5px;
+}
+.head{
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 700;
+}

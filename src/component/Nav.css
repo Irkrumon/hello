@@ -1,0 +1,85 @@
+.child{
+    width: 1192px;
+    
+}
+.Nav{
+    width: 1192px;
+    height: 40px;
+
+    display: flex;
+    align-items: center;
+    
+}
+.space{
+    display: flex;
+}
+.logo1{
+    width: 195px;
+    height: 37px;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: SF Pro Display
+    ;
+    color: #0F2137;
+;
+
+}
+p{
+    margin: 0;
+}
+.logo2{
+    width: 502px;
+    height: 33px;
+    display: flex;
+    align-items: center;
+    font-family: 
+    Font Awesome 5 Free;
+    font-weight: 400;
+    font-size: 14px;
+    justify-content: space-around;
+    color: 
+    #02073E;
+}
+.logo3{
+  justify-content: right;
+  width: 100%;
+    display: flex;
+    margin-right: 5px;
+    align-items: center;
+}
+.p2{
+margin-right: 14px;
+font-size: 14px;
+font-family: DM Sans;
+font-weight: 500px;
+color: #0F2137;
+}
+.p1{
+    margin-right:5px;
+    font-family: DM Sans ;
+    font-weight: 700px;
+    font-size: 16px;
+    color: #0A8080;
+}
+
+
+.center{
+    text-align: center;
+    margin-top: 120px;
+}
+.center p{
+    font-family: B612;
+    font-size: 48px;
+    font-weight: 700;
+    color: #02073E;
+   
+}
+.para1{
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 30px;
+}
